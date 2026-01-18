@@ -3,11 +3,11 @@
 MediScribe is a multi-agent system for processing medical prescriptions with OCR, correction, translation to Urdu, and high-quality text-to-speech generation using Gemini AI and ElevenLabs.
 
 ## Features
-- 📸 Prescription image text extraction (OCR) using Gemini Vision
-- 💊 Medication name correction and standardization
-- 🌐 Translation to Urdu with proper medical terminology
-- 🔊 High-quality Urdu text-to-speech using ElevenLabs
-- 📱 Web-based interface for easy prescription management
+- Prescription image text extraction (OCR) using Gemini Vision
+- Medication name correction and standardization
+- Translation to Urdu with proper medical terminology
+- High-quality Urdu text-to-speech using ElevenLabs
+- Web-based interface for easy prescription management
 
 ## Setup
 
