@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio outputs
+backend/audio_outputs/
+
+# Uploads
+backend/uploads/
+
+# Environment variables
+.env.*
+
+# Misc
+*.sqlite3
+
+# Security - Never commit sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+config/
+secrets/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Database
+*.db
+*.sqlite
+
+# Generated files
+*.pid
+*.seed
